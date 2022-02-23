@@ -1,0 +1,9 @@
+<script>
+window.READ_MORE_SELECTOR = '.post-body.entry-content';
+window.READ_MORE_CONTENT_DESKTOP = '500px';
+window.READ_MORE_CONTENT_MOBILE = '500px';
+window.READ_MORE_TEXT = 'Leer más';
+window.READ_MORE_BACKGROUND_COLOR = 'transparent';
+</script>
+<!-- code of button-->
+<script src="//cdn.mgid.com/js/read-more/read-more.js" async></script>
